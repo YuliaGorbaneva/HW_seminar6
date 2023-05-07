@@ -69,17 +69,6 @@ int PositiveNumbers(int [] array)
 
 void Task2()
 {
-    // Console.WriteLine("Введите b1: ");
-    // int b1 = int.Parse(Console.ReadLine());
-    // Console.WriteLine("Введите k1: ");
-    // int k1 = int.Parse(Console.ReadLine());
-    // Console.WriteLine("Введите b2: ");
-    // int b2 = int.Parse(Console.ReadLine());
-    // Console.WriteLine("Введите k2: ");
-    // int k2 = int.Parse(Console.ReadLine());
-
-    // Console.Write($"{b1} {k1} {b2} {k2}");
-    // Console.WriteLine();
    FillPoint();
 }
 
@@ -123,4 +112,3 @@ double InitCoordinatesX_Y(int b1, int k1, int b2, int k2)
     return k2;
 
 }
-
